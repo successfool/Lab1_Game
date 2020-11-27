@@ -1,0 +1,5 @@
+<ImageView android:id="@+id/ImageForCell"
+    android:layout_width="80dp"
+    android:layout_height="80dp"
+    android:src="@mipmap/image"
+    xmlns:android="http://schemas.android.com/apk/res/android" />
